@@ -1,5 +1,5 @@
 <!-- tensortonic:start -->
-# Vasuki's TensorTonic Solutions
+# Sneha's TensorTonic Solutions
 
 Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
